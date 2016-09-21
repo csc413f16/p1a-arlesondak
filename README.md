@@ -1,8 +1,8 @@
-Name:
+Name: Andrew Lesondak
 
-Compilation and Run Successful:
+Compilation and Run Successful: Compile and run successful with no errors.  
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Compile and run successful with no errors.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
